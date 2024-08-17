@@ -1,5 +1,4 @@
 # layer_segmentation
-kidney layer segmentation
 This project consists of a collection of CNN-based and Transformer-based models for comparison experiments in layer segmentation programs.
 
 - Incorporating cross-species homologous data for collaborative training can enhance the performance of models in segmenting the cortex and medulla in human kidney histopathology images.
