@@ -3,7 +3,7 @@ This project consists of a collection of CNN-based and Transformer-based models 
 
 - Incorporating cross-species homologous data for collaborative training can enhance the performance of models in segmenting the cortex and medulla in human kidney histopathology images.
 
-![Figure_3_dice_iou](E:\Vandy_PHD\spie2024\Figures\Figure_3_dice_iou.png)
+![dice_iou](.\Results\dice_iou.png)
 
 1. To train CNN-based models, including `UNet`, `PSPNet`, and `Deeplab-v3+`:
 
@@ -31,7 +31,7 @@ python predict_img.py
 python get_metrics.py
 ```
 
-![Figure_4_seg_result](E:\Vandy_PHD\spie2024\Figures\Figure_4_seg_result.png)
+![seg_result](.\Results\seg_result.png)
 
 <p align="center"><strong>The qualitative outcomes of models on various datasets. By utilizing external homologous data, the models have become better at perceiving edge textures, performing better in more precise localization of kidney layer boundaries.</strong> </p>
 
