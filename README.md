@@ -33,5 +33,5 @@ python get_metrics.py
 
 ![seg_result](./Results/seg_result.png)
 
-<p align="center"><strong>The qualitative outcomes of models on various datasets. By utilizing external homologous data, the models have become better at perceiving edge textures, performing better in more precise localization of kidney layer boundaries.</strong> </p>
+<p align="center">By utilizing external homologous data, the models have become better at perceiving edge textures, performing better in more precise localization of kidney layer boundaries. </p>
 
